@@ -1,0 +1,33 @@
+body{
+    background-color: #ffffff;
+}
+.navbar-collapse{
+    justify-content: space-between;
+}
+nav{
+    margin: 20px 0;
+}
+.card{
+    margin-bottom: 20px;
+    height: 500px;
+}
+.card-img{
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+    margin-bottom: 10px;
+}
+.card-img_max{
+    height: 500px;
+}
+
+.card-author, .card-date {
+    margin-bottom: 10px;
+}
+.card-btn{
+    display: flex;
+}
+.btn{
+    margin-right: 10px;
+}
